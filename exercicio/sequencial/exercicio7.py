@@ -1,4 +1,4 @@
-area = int(input("Digite o valor da area do quadrado: "))
+area = float(input("Digite o valor da area do quadrado: "))
 
 resultado = area * area
 

@@ -1,5 +1,3 @@
-
-
 fire = int(input("digite o valor de Fahrenheit"))
 
 celsius = (fire -32) * 5/9

@@ -1,4 +1,4 @@
-valor_1 = int(input("Digite o valor de metros: "))
+valor_1 = float(input("Digite o valor de metros: "))
 
 resultado = valor_1 * 100
 

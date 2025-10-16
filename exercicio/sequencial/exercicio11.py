@@ -9,7 +9,8 @@ resultado2 = (numero3 *3 ) + numero1
 print ("tudo deu",resultado2)
 
 resultado3 = (numero2 ** 3)
-print ("tudo deu",resultado3)
+print (f"tudo deu",resultado3)
+
 
 
 

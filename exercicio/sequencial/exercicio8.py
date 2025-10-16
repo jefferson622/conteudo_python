@@ -1,8 +1,6 @@
-hora = int(input("Digite o valor da hora: "))
-salario = int(input("Digite o valor do salario por dia: "))
-dia = int(input("Digite o valor do dia trabalhado: "))
-semana = int(input("Digite o valor da semana trabalhada: "))
+horas = int(input("Quantas horas voce trabalha?: "))
+valor_hora = float(input("Qual o seu valor/hora?: "))
 
-resultado = hora * salario * dia * semana
+salario = horas * valor_hora
 
-print("O valor da soma trabalhando é",resultado)
+print (f"o seu salario é R$ {salario}")
