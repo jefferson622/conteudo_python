@@ -1,0 +1,48 @@
+saque = int(input("Digte o valor do saque: "))
+
+qtd_cem = 0
+qtd_cinquenta = 0
+qtd_vinte = 0
+qtd_dez = 0
+qtd_cinco = 0
+qtd_dois = 0
+qtd_um = 0
+saque_original = 0
+
+if saque > 100:
+   qtd_cem = saque // 100
+   saque = saque - (qtd_cem * 100)
+
+if saque > 50:
+    qtd_cinquenta = saque // 100
+    saque = saque - (qtd_cinquenta * 50)
+
+if saque > 20:
+    qtd_vinte = saque // 20
+    saque = saque - (qtd_vinte * 20)
+
+if saque > 10:
+    qtd_dez = saque // 10
+    saque = saque - (qtd_dez * 10)
+
+if saque > 5:
+    qtd_cinco = saque // 5
+    saque = saque - (qtd_cinco * 5)
+
+if saque > 1:
+    qtd_um = saque // 1
+    saque = saque - (qtd_um * 1)
+
+if saque > 1:
+    qtd_um = saque
+    saque = 0
+
+print(f"Valor a ser sacado {saque_original}")
+print(f"Notas:")
+print(f"{qtd_cem} notas de 100")
+print(f"{qtd_cinquenta} notas de 50")
+print(f"{qtd_vinte} notas de 20")
+print(f"{qtd_dez} notas de 10")
+print(f"{qtd_cinco} notas de 5")
+print(f"{qtd_um} notas de 1")
+

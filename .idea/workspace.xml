@@ -4,25 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d10417-b8d2-4d43-a66c-9cece02e8c8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/aula.6_formulario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/aula6. comparaçoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicio/aula_6_decisao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="bf5096b5-8055-4268-a116-44372ffe806d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicio/Decisão/exercicio9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio14.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio6.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio7.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio8.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicio/sequencial/exercicio9.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicio/sequencial/exercicio9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +36,7 @@
   "customColor": "",
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="3494JkHNexBqi5H0qI5qPOvV4Dp" />
+  <component name="ProjectId" id="34VfrkWXsnGkipV03jkTCP1J9hG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -53,20 +46,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.aula.6_formulario.executor": "Run",
-    "Python.aula6. comparaçoes.executor": "Run",
-    "Python.aula_6_decisao.executor": "Run",
     "Python.exercicio1.executor": "Run",
-    "Python.exercicio11.executor": "Run",
-    "Python.exercicio14.executor": "Run",
-    "Python.exercicio2.executor": "Debug",
-    "Python.exercicio3.executor": "Run",
+    "Python.exercicio10.executor": "Run",
+    "Python.exercicio12.executor": "Run",
+    "Python.exercicio17.executor": "Run",
+    "Python.exercicio5.executor": "Run",
     "Python.exercicio6.executor": "Run",
-    "Python.exercicio7.executor": "Run",
-    "Python.exercicio8.executor": "Run",
-    "Python.exercicio9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -80,11 +66,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="49d10417-b8d2-4d43-a66c-9cece02e8c8b" name="Changes" comment="" />
-      <created>1760612384104</created>
+      <changelist id="bf5096b5-8055-4268-a116-44372ffe806d" name="Changes" comment="" />
+      <created>1761303861288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760612384104</updated>
+      <updated>1761303861288</updated>
     </task>
     <servers />
   </component>
